@@ -39,5 +39,7 @@ Ensure that all dependencies are installed.
 Run the app on an emulator or physical device.
 
 Author Information
+
 📌 Chitra Manral
+
 📧 officialchitra1@gmail.com
